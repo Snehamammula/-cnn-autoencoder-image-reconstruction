@@ -1,0 +1,5 @@
+{
+  "name": "Autoencoder Colab Hub",
+  "description": "A project hub containing a Google Colab notebook for an Autoencoder experiment with a simulated Gradio UI preview.",
+  "requestFramePermissions": []
+}
